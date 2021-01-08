@@ -13,14 +13,13 @@ function WorkExperience() {
                         <p>Sept 2020 - December 2020</p>
                     </div>
                     <div class="job-summary">
-                        <p>
-                            I worked as an assistant to a faculty member in the Computer Science department 
-                            where I was responsible for writing scripts in Python and Java to extract 
-                            and organize data according to research needs.
-                        </p>
                         <ul>
-                            <li>Research topics: software quality, code smells, technical debt</li>
-                            <li>Technologies: Python, Java, Gradle, Maven</li>
+                            <li>Worked as an assistant to a faculty member in the Computer Science department at the University of Saskatchewan</li>
+                            <li>Successfully achieved the goals ahead of time set out at the beginning of the work term</li>
+                            <li>Wrote programs and modified existing code analysis tools to extract and organize data as required by the research</li>
+                            <li>Attended weekly meetings with the research supervisor to discuss any hurdles and report work progress</li>
+                            <li>Technologies used were Python, Java, Gradle and Ant</li>
+                            <li>Research topics included Code Smells and Technical Depth</li>
                         </ul>
                     </div>
                 </section>
@@ -31,19 +30,17 @@ function WorkExperience() {
                         <p>May 2019 - August 2020</p>
                     </div>
                     <div class="job-summary">
-                        <p>
-                            I was part of a team of approximately 20 developers and quality
-                            assurance personnels. The team was responsible for creating and
-                            maintaining user-interfaces and backend services for a client in
-                            telecommunications industry. My duties included implementing new features 
-                            as suggested by the software architecture team and tracking and 
-                            fixing software bugs in both front-end and back-end services.
-                        </p>
                         <ul>
-                            <li>Front-end technologies used: Flask, Jquery, Jinja, SASS</li>
-                            <li>Back-end technologies used: Java, C++</li>
-                            <li>Database technologies used: Couchbase, PostgreSQL</li>
-                            <li>Build tools: Gradle</li>
+                            <li>Worked in a team oriented and an agile environment to design and implement new features and troubleshoot bugs</li>
+                            <li>Wrote unit and integration tests as required in Java and C++</li>
+                            <li>Conducted software feature testing and wrote bug reports </li>
+                            <li>Designed and wrote automated test scripts using Python and Selenium Web Automation framework</li>
+                            <li>Successfully overhauled core files supporting front-end to accommodate new functionalities</li>
+                            <li>Was involved in overhauling code build system and implementing Gradle for building various modules of the code base</li>
+                            <li>Front-end consisted of Python, jQuery, Flask, CSS and HTML</li>
+                            <li>Back-end consisted of Java and C++</li>
+                            <li>Database System consisted of SQL and Couchbase</li>
+                            <li>Other DevOps tools included JIRA, Confluence, Jenkins and Ansible</li>
                         </ul>
                     </div>
                 </section>
