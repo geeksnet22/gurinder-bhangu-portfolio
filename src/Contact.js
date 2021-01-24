@@ -8,8 +8,8 @@ function Contact() {
                 <h2>Let's Keep in Touch!</h2>
                 <ul class="contact-list">
                     <li>
-                    <a href="mailto:gurinderbhangu@hotmail.com"
-                        >gurinderbhangu@hotmail.com</a
+                    <a href="mailto:gurinder.bhangu@usask.ca"
+                        >gurinder.bhangu@usask.ca</a
                     >
                     </li>
                     <li>

@@ -1,6 +1,7 @@
 import React from 'react'
 import weatherApp from './images/weather-app.png'
 import facebookClone from './images/facebook-clone.png'
+import whatsapp_screen from './images/whatsapp_screen.jpg'
 import './Projects.css'
 
 function Projects() {
@@ -47,6 +48,19 @@ function Projects() {
                     <a style={{marginLeft: "20px"}}
                     class="btn"
                     href="https://github.com/geeksnet22/TheWeatherApp"
+                    target="_blank"
+                    >Github Link</a>
+                </section>
+                <section class="project-item">
+                    <img src={whatsapp_screen} />
+                    <h3>WhatsApp Clone</h3>
+                    <p>
+                    WhatsApp clone mimicking the functionality of original WhatsApp mobile app.
+                    Developed using React Native, React Navigation, Redux and Firebase.
+                    </p>
+                    <a style={{marginLeft: "20px"}}
+                    class="btn"
+                    href="https://github.com/geeksnet22/WhatsAppClone"
                     target="_blank"
                     >Github Link</a>
                 </section>

@@ -36,7 +36,7 @@ function WorkExperience() {
                             <li>Conducted software feature testing and wrote bug reports </li>
                             <li>Designed and wrote automated test scripts using Python and Selenium Web Automation framework</li>
                             <li>Successfully overhauled core files supporting front-end to accommodate new functionalities</li>
-                            <li>Was involved in overhauling code build system and implementing Gradle for building various modules of the code base</li>
+                            <li>Successfully overhauled build system consisting of Gradle to avoid unnecessary build processes and reduce build times</li>
                             <li>Front-end consisted of Python, jQuery, Flask, CSS and HTML</li>
                             <li>Back-end consisted of Java and C++</li>
                             <li>Database System consisted of SQL and Couchbase</li>
