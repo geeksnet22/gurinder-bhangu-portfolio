@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Gurinder Bhangu",
+    "occupation": "Software Developer",
+    "description": "",
+    "image": "profileImage.jpg",
+    "bio": "I am a software developer skilled in mobile and web development. I have a bachelor's degree in computer science from the University of Saskatchewan with two years of experience as a professional software developer. I love coding and learning latest tools and technologies. I have created several native and cross platform mobile apps mainly in Java, Kotlin, React Native and Flutter. I am experienced in web development using technologies like HTML, JavaScript, CSS, React, Redux, NodeJS, Flask, SQL and Firebase.",
+    "contactmessage": "Get in touch",
+    "email": "gurinder.bhangu@usask.ca",
+    "phone": "+1 (306) 715-5050",
+    "address": {
+      "street": "4231 Degeer Street",
+      "city": "Saskatoon",
+      "state": "Saskatchewan",
+      "zip": "S7H 4N6"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100015774182398",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gurinder-bhangu-a9a4b5144/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/geeksnet22",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Saskatchewan - Canada",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "December 2020",
+        "description": ""
+      },
+      {
+        "school": "University of Saskatchewan - Canada",
+        "degree": "Bachelor's Degree, Mechnical Engineering",
+        "graduated": "June 2015",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "University of Saskatchewan",
+        "title": "Software Research Assistant",
+        "years": "September 2020 - December 2020",
+        "description": "Technologies: Python, Java, Ant"
+      },
+      {
+        "company": "SED Systems",
+        "title": "Software Developer Intern",
+        "years": "May 2019 - August 2020",
+        "description": "Technolgies: jQuery, Flask, Java, C++"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      },
+      {
+        "name": "Mobile Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebook.jpg",
+        "url": "https://facebook-clone-b2c57.web.app/"
+      },
+      {
+        "title": "WhatsApp Clone (React Native)",
+        "category": "",
+        "image": "whatsapp.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.whatsappclone"
+      },
+      {
+        "title": "Weather App (Android Native)",
+        "category": "",
+        "image": "weatherapp.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.weatherapp.android.whatstheweather"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
